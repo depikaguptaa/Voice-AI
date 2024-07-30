@@ -1,4 +1,4 @@
-# Weya-Takehome Project
+# Voice AI Project
 
 ## Dependencies
 - **Language:** Python 3.12
